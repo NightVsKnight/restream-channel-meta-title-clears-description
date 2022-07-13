@@ -1,0 +1,15 @@
+{
+  "name": "restream-channel-meta-title-clears-description",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/NightVsKnight/restream-channel-meta-title-clears-description.git",
+  "author": "night.vs.knight@gmail.com <night.vs.knight@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.18.1",
+    "got": "^12.1.0",
+    "tree-kill": "^1.2.2",
+    "webview": "^1.0.0"
+  }
+}
